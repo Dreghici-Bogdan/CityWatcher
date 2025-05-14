@@ -1,0 +1,16 @@
+[
+  { "lat": 46.770439, "lon": 23.591423, "label": "graffiti", "timestamp": "2025-05-14T10:20:10.239251", "city": "Cluj-Napoca" },
+  { "lat": 46.772845, "lon": 23.598805, "label": "pothole", "timestamp": "2025-05-14T10:20:10.239251", "city": "Cluj-Napoca" },
+  { "lat": 46.768093, "lon": 23.589987, "label": "graffiti", "timestamp": "2025-05-14T10:20:10.239251", "city": "Cluj-Napoca" },
+  { "lat": 46.7611014, "lon": 23.5791118, "label": "pothole", "timestamp": "2025-05-14T10:20:10.239251", "city": "Cluj-Napoca" },
+  { "lat": 46.777812, "lon": 23.588674, "label": "graffiti", "timestamp": "2025-05-14T15:10:00.000000", "city": "Cluj-Napoca" },
+  { "lat": 46.768900, "lon": 23.602100, "label": "pothole", "timestamp": "2025-05-14T15:11:00.000000", "city": "Cluj-Napoca" },
+  { "lat": 46.775400, "lon": 23.595800, "label": "graffiti", "timestamp": "2025-05-14T15:12:00.000000", "city": "Cluj-Napoca" },
+  { "lat": 46.771000, "lon": 23.576400, "label": "pothole", "timestamp": "2025-05-14T15:13:00.000000", "city": "Cluj-Napoca" },
+  { "lat": 46.766500, "lon": 23.584000, "label": "graffiti", "timestamp": "2025-05-14T15:14:00.000000", "city": "Cluj-Napoca" },
+  { "lat": 46.759300, "lon": 23.598300, "label": "pothole", "timestamp": "2025-05-14T15:15:00.000000", "city": "Cluj-Napoca" },
+
+  { "lat": 46.0681, "lon": 23.5807, "label": "pothole", "timestamp": "2025-05-14T15:00:00.000000", "city": "Alba Iulia" },
+  { "lat": 46.0753, "lon": 23.5769, "label": "graffiti", "timestamp": "2025-05-14T15:01:00.000000", "city": "Alba Iulia" },
+  { "lat": 46.0711, "lon": 23.5778, "label": "pothole", "timestamp": "2025-05-14T15:02:00.000000", "city": "Alba Iulia" }
+]
