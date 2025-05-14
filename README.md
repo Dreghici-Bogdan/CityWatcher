@@ -25,8 +25,6 @@ Developed as part of the **BitStone AI Hackathon 2025**, this project showcases 
 | Maps       | react-native-maps with clustering           |
 | Storage    | AsyncStorage & Expo FileSystem              |
 | Location   | expo-location & Nominatim reverse geocoder  |
-| Reporting  | `fpdf` for dynamic PDF generation           |
-
 ---
 
 ## 📦 Setup Instructions
