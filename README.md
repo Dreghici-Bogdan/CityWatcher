@@ -1,4 +1,4 @@
-# 🏙️ Urban AI — Smart Detection of City Infrastructure Problems
+# 🏙️ CityWatcher — Smart Detection of City Infrastructure Problems
 
 Urban AI is a mobile-first app built to detect and geotag common urban issues such as **graffiti** and **potholes** using computer vision and AI. It empowers citizens and city authorities to collaboratively improve urban infrastructure through an intuitive reporting platform.
 
